@@ -1,2 +1,2 @@
-# Deltek_ConverterSolution
+#ConverterSolution
 Convert currency and numbers
